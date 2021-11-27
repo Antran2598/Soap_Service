@@ -1,0 +1,10 @@
+E:\SoapService\NV_CLIENT\bin\Debug\NV_CLIENT.exe.config
+E:\SoapService\NV_CLIENT\bin\Debug\NV_CLIENT.exe
+E:\SoapService\NV_CLIENT\bin\Debug\NV_CLIENT.pdb
+E:\SoapService\NV_CLIENT\obj\Debug\NV_CLIENT.csproj.AssemblyReference.cache
+E:\SoapService\NV_CLIENT\obj\Debug\NV_CLIENT.Form1.resources
+E:\SoapService\NV_CLIENT\obj\Debug\NV_CLIENT.Properties.Resources.resources
+E:\SoapService\NV_CLIENT\obj\Debug\NV_CLIENT.csproj.GenerateResource.cache
+E:\SoapService\NV_CLIENT\obj\Debug\NV_CLIENT.csproj.CoreCompileInputs.cache
+E:\SoapService\NV_CLIENT\obj\Debug\NV_CLIENT.exe
+E:\SoapService\NV_CLIENT\obj\Debug\NV_CLIENT.pdb
